@@ -1,2 +1,2 @@
 # apprentice-customer-service-portal
-Code repository for the Digital Innovation Apprentices to practice a placebo customer service portal coding
+Code repository for the Digital Innovation Apprentices to practice coding on the test project customer service portal
